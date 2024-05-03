@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bill-Splitting-App/static/css/main.f38a3276.css",
+    "main.js": "/Bill-Splitting-App/static/js/main.bbf4b7b5.js",
+    "index.html": "/Bill-Splitting-App/index.html",
+    "main.f38a3276.css.map": "/Bill-Splitting-App/static/css/main.f38a3276.css.map",
+    "main.bbf4b7b5.js.map": "/Bill-Splitting-App/static/js/main.bbf4b7b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.bbf4b7b5.js"
+  ]
+}
